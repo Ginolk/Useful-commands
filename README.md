@@ -2,7 +2,7 @@
 
 Christitus windows utility: ```irm christitus.com/win | iex```
 
-Windows activation script: ```irm https://massgrave.dev/get | iex```
+Windows activation script: ```irm massgrave.dev/get | iex```
 
 
 
