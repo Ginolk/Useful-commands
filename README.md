@@ -1,4 +1,4 @@
-# Useful-commands
+# Useful commands and links.
 
 Christitus windows utility: ```irm christitus.com/win | iex```
 
