@@ -6,4 +6,4 @@ Windows activation script: ```irm https://massgrave.dev/get | iex```
 
 
 
-Windows download: https://github.com/meetrevision
+Windows download: https://github.com/AveYo/MediaCreationTool.bat
