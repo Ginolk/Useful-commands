@@ -10,4 +10,4 @@ Windows download: https://github.com/AveYo/MediaCreationTool.bat
 
 Drivers for Bootcamp: https://github.com/timsutton/brigadier
 
-Windows on mac treackpad "fix":
+Windows on mac treackpad "fix": https://github.com/imbushuo/mac-precision-touchpad
