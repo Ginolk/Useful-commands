@@ -9,3 +9,5 @@ Windows activation script: ```irm https://massgrave.dev/get | iex```
 Windows download: https://github.com/AveYo/MediaCreationTool.bat
 
 Drivers for Bootcamp: https://github.com/timsutton/brigadier
+
+Windows on mac treackpad "fix":
